@@ -48,7 +48,7 @@ export class AppController {
             <img src="static/sorvete4.svg" alt="sorvete" id="type4_copy">
             <span>Picolés</span>
         </div>
-        <footer id="instagram">fale concosco no instagram <strong>@space_cream</strong></footer>
+        <footer id="instagram">fale conosco no instagram <strong>@space_cream</strong></footer>
     </body>
     
     </html>
